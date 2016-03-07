@@ -1,0 +1,5 @@
+C:\Users\jwa\Documents\GitHub\GeneralSolution\GeneralSolution\bin\Debug\GeneralSolution.exe.config
+C:\Users\jwa\Documents\GitHub\GeneralSolution\GeneralSolution\bin\Debug\GeneralSolution.exe
+C:\Users\jwa\Documents\GitHub\GeneralSolution\GeneralSolution\bin\Debug\GeneralSolution.pdb
+C:\Users\jwa\Documents\GitHub\GeneralSolution\GeneralSolution\obj\Debug\GeneralSolution.exe
+C:\Users\jwa\Documents\GitHub\GeneralSolution\GeneralSolution\obj\Debug\GeneralSolution.pdb
